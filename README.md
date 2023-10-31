@@ -1,3 +1,3 @@
 # magic
 1st git repository
-Creator - Ali
+Creator - Sk Soleman Ali
